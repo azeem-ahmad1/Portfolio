@@ -960,7 +960,7 @@ body {
 }
 
 .project-card img {
-  width: 100%;
+  width: 10%;
   height: auto;
   border-bottom: 1px solid #ddd; /* Add border between image and project info */
 }
@@ -993,4 +993,7 @@ body {
 
 .project-info a:hover {
   background-color: #555;
+}
+b{
+  color: rgb(54, 82, 54);
 }
